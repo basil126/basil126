@@ -1,4 +1,4 @@
-### <div align="center">Hi there 👋 I'm Basil! </div>
+## <div align="center">Hi there 👋 I'm Basil! </div>
 
 <h3 align="center">Avid Full Stack Developer</h3>
 
