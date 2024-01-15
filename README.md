@@ -1,16 +1,31 @@
-### Hi there 👋
+### <div align="center">Hi there 👋 I'm Basil! </div>
 
-<!--
-**basil126/basil126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Avid Full Stack Developer</h3>
 
-Here are some ideas to get you started:
+### About me
+- Residing in the US
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Time Series Analysis
+- NLP
+
+<br>
+
+### Skills
+I am well versed with **Java bytecode** and **machine learning**. Here are a few of the languages I know best: 
+
+<br>
+
+<p align="left">
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+</p>
+
+### Conact me
+- N/A
+  
+<br/>  
+
+<p align="center">
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=basil126&&show_icons=true&&count_private=true&title_color=93c47d&icon_color=93c47d&text_color=312E2B&bg_color=01ffa3,04c655&hide_border=true">
+</p>
