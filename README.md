@@ -27,5 +27,5 @@ I am well versed with **Java bytecode** and **machine learning**. Here are a few
 <br/>  
 
 <p align="center">
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=basil126&&show_icons=true&&count_private=true&title_color=93c47d&icon_color=93c47d&text_color=312E2B&bg_color=40,01ffa3,04c655&hide_border=true">
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=basil126&&show_icons=true&&count_private=true&title_color=3f4a3a&icon_color=3f4a3a&text_color=312E2B&bg_color=40,01ffa3,04c655&hide_border=true">
 </p>
