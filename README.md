@@ -8,9 +8,7 @@
 ### Projects
 - Time Series Analysis
 - NLP
-
-<br>
-
+  
 ### Skills
 I am well versed with **Java bytecode** and **machine learning**. Here are a few of the languages I know best: 
 
